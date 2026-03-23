@@ -28,4 +28,4 @@ A fully responsive website for a fictional plumbing business, built to showcase 
 This is a demo project built for portfolio purposes. No real client data was used.
 
 ## Live Demo
-[View Site](https://chumachecheia.github.io/clearwater-plumbing-demo)
+[View Site](https://chumachecheia.github.io/clearwater-plumbing-demo/)
